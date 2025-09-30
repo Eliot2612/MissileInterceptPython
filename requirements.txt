@@ -1,1 +1,4 @@
-# Add your project dependencies here
+vpython
+# For RL (planned):
+# stable-baselines3
+# gymnasium
